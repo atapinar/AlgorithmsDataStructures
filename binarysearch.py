@@ -12,6 +12,7 @@ def binary_search(arr, target):
             last = midpoint-1
     return -1
 
+
 arr = [10, 23, 45, 70, 11, 15]
 target = 5
 result = binary_search(arr, target)
